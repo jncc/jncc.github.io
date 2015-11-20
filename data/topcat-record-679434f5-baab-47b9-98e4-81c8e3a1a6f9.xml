@@ -31,7 +31,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:Date>2015-11-20</gco:Date>
+    <gco:Date>2015-11-21</gco:Date>
   </gmd:dateStamp>
   <gmd:identificationInfo>
     <gmd:MD_DataIdentification id="_679434f5-baab-47b9-98e4-81c8e3a1a6f9">
@@ -46,7 +46,7 @@
                 <gco:Date>2015-04-15</gco:Date>
               </gmd:date>
               <gmd:dateType>
-                <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">2015-04-14</gmd:CI_DateTypeCode>
+                <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">2015-04-15</gmd:CI_DateTypeCode>
               </gmd:dateType>
             </gmd:CI_Date>
           </gmd:date>
